@@ -4,15 +4,15 @@
       "id": "azooz-tv",
       "slug": "azooz-tv",
       "name": "Azooz TV",
-      "apk": "https://drive.google.com/uc?export=download&id=1drg0bS0uGk-OF2xVheFXZHkUau9fgt9o",
-      "download_url": "https://drive.google.com/uc?export=download&id=1drg0bS0uGk-OF2xVheFXZHkUau9fgt9o"
+      "apk": "https://cdn.jsdelivr.net/gh/albadyzaldyn111-a11y/apps-storage@main/azooz-tv.apk",
+      "download_url": "https://cdn.jsdelivr.net/gh/albadyzaldyn111-a11y/apps-storage@main/azooz-tv.apk"
     },
     {
       "id": "netspectra",
       "slug": "netspectra",
       "name": "NetSpectra",
-      "apk": "https://drive.google.com/uc?export=download&id=1NsjvdMtauzP1R-jsLfHNsRNebv0ghb9Q",
-      "download_url": "https://drive.google.com/uc?export=download&id=1NsjvdMtauzP1R-jsLfHNsRNebv0ghb9Q"
+      "apk": "https://cdn.jsdelivr.net/gh/albadyzaldyn111-a11y/apps-storage@main/netspectra.apk",
+      "download_url": "https://cdn.jsdelivr.net/gh/albadyzaldyn111-a11y/apps-storage@main/netspectra.apk"
     }
   ]
 }
