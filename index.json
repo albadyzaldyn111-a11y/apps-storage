@@ -1,32 +1,42 @@
-[
-  {
-    "id": "azooz-tv",
-    "name": "Azooz TV",
-    "slug": "azooz-tv",
-    "version": "1.0.0",
-    "developer": "Azooz",
-    "category": "Entertainment",
-    "description": "Premium TV streaming application.",
-    "longDescription": "Azooz TV offers a premium experience for streaming your favorite channels and content directly on your Android device.",
-    "icon": "assets/images/app-auto-build.svg",
-    "apk": "https://github.com/albadyzaldyn111-a11y/azooz-tv/releases/latest/download/app.apk",
-    "size": "22 MB",
-    "updated": "Aug 14, 2026",
-    "featured": true
-  },
-  {
-    "id": "netspectra",
-    "name": "NetSpectra",
-    "slug": "netspectra",
-    "version": "1.0.0",
-    "developer": "Azooz",
-    "category": "Utilities",
-    "description": "Advanced network monitoring and data control.",
-    "longDescription": "NetSpectra allows you to monitor your network usage in real-time and enforce strict data limits on applications.",
-    "icon": "assets/images/app-auto-build.svg",
-    "apk": "https://github.com/albadyzaldyn111-a11y/netspectra-app/releases/latest/download/app.apk",
-    "size": "13 MB",
-    "updated": "Aug 14, 2026",
-    "featured": true
-  }
-]
+{
+  "apps": [
+    {
+      "id": "azooz-tv",
+      "name": "Azooz TV",
+      "slug": "azooz-tv",
+      "version": "1.0.0",
+      "developer": "azooz-store",
+      "developerName": "Azooz",
+      "category": "media",
+      "description": "Premium TV streaming application.",
+      "shortDescription": "Premium TV streaming application.",
+      "longDescription": "Azooz TV offers a premium experience for streaming your favorite channels and content directly on your Android device.",
+      "icon": "assets/images/app-auto-build.svg",
+      "apk": "https://github.com/albadyzaldyn111-a11y/azooz-tv/releases/latest/download/app.apk",
+      "size": "22 MB",
+      "updated": "2026-08-14",
+      "featured": true,
+      "rating": 5.0,
+      "downloads": 100
+    },
+    {
+      "id": "netspectra",
+      "name": "NetSpectra",
+      "slug": "netspectra",
+      "version": "1.0.0",
+      "developer": "azooz-store",
+      "developerName": "Azooz",
+      "category": "tools",
+      "description": "Advanced network monitoring and data control.",
+      "shortDescription": "Advanced network monitoring and data control.",
+      "longDescription": "NetSpectra allows you to monitor your network usage in real-time and enforce strict data limits on applications.",
+      "icon": "assets/images/app-auto-build.svg",
+      "apk": "https://github.com/albadyzaldyn111-a11y/netspectra-app/releases/latest/download/app.apk",
+      "size": "13 MB",
+      "updated": "2026-08-14",
+      "featured": true,
+      "rating": 4.8,
+      "downloads": 50
+    }
+  ]
+}
