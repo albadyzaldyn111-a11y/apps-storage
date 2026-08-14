@@ -2,63 +2,17 @@
   "apps": [
     {
       "id": "azooz-tv",
-      "name": "Azooz TV",
       "slug": "azooz-tv",
-      "version": "1.0.0",
-      "developer": "azooz-store",
-      "developerName": "Azooz",
-      "category": "media",
-      "description": "Premium TV streaming application.",
-      "shortDescription": "Premium TV streaming application.",
-      "longDescription": "Azooz TV offers a premium experience for streaming your favorite channels and content directly on your Android device.",
-      "icon": "assets/images/app-auto-build.svg",
+      "name": "Azooz TV",
       "apk": "https://drive.google.com/uc?export=download&id=1drg0bS0uGk-OF2xVheFXZHkUau9fgt9o",
-      "download_url": "https://drive.google.com/uc?export=download&id=1drg0bS0uGk-OF2xVheFXZHkUau9fgt9o",
-      "size": "22 MB",
-      "updated": "2026-08-14",
-      "featured": true,
-      "rating": 5.0,
-      "downloads": 100,
-      "status": "published"
+      "download_url": "https://drive.google.com/uc?export=download&id=1drg0bS0uGk-OF2xVheFXZHkUau9fgt9o"
     },
     {
       "id": "netspectra",
-      "name": "NetSpectra",
       "slug": "netspectra",
-      "version": "1.0.0",
-      "developer": "azooz-store",
-      "developerName": "Azooz",
-      "category": "tools",
-      "description": "Advanced network monitoring and data control.",
-      "shortDescription": "Advanced network monitoring and data control.",
-      "longDescription": "NetSpectra allows you to monitor your network usage in real-time and enforce strict data limits on applications.",
-      "icon": "assets/images/app-auto-build.svg",
+      "name": "NetSpectra",
       "apk": "https://drive.google.com/uc?export=download&id=1NsjvdMtauzP1R-jsLfHNsRNebv0ghb9Q",
-      "download_url": "https://drive.google.com/uc?export=download&id=1NsjvdMtauzP1R-jsLfHNsRNebv0ghb9Q",
-      "size": "13 MB",
-      "updated": "2026-08-14",
-      "featured": true,
-      "rating": 4.8,
-      "downloads": 50,
-      "status": "published"
-    },
-    {
-      "id": "demo-app",
-      "name": "Demo App",
-      "slug": "demo-app",
-      "version": "1.0.0",
-      "developer": "azooz-store",
-      "developerName": "Azooz",
-      "category": "developer",
-      "description": "Demonstration application.",
-      "shortDescription": "Demonstration application.",
-      "icon": "assets/images/app-auto-build.svg",
-      "apk": "https://drive.google.com/uc?export=download&id=1drg0bS0uGk-OF2xVheFXZHkUau9fgt9o",
-      "download_url": "https://drive.google.com/uc?export=download&id=1drg0bS0uGk-OF2xVheFXZHkUau9fgt9o",
-      "size": "2.4 MB",
-      "updated": "2026-08-14",
-      "featured": true,
-      "status": "published"
+      "download_url": "https://drive.google.com/uc?export=download&id=1NsjvdMtauzP1R-jsLfHNsRNebv0ghb9Q"
     }
   ]
 }
