@@ -1,6 +1,27 @@
 {
   "apps": [
     {
+      "id": "unidocs",
+      "name": "UniDocs",
+      "slug": "unidocs",
+      "version": "2.5.0",
+      "developer": "azooz-store",
+      "developerName": "Azooz",
+      "category": "education",
+      "description": "منصة الأرشفة الأكاديمية لجامعة القلم - إدارة ومشاركة الملازم والملفات.",
+      "shortDescription": "منصة الأرشفة الأكاديمية لجامعة القلم.",
+      "longDescription": "UniDocs هي المنصة الرسمية لطلاب جامعة القلم لإدارة، رفع، وتحميل الملازم والملفات الأكاديمية بسهولة مع نظام إشعارات ذكي وتنزيل مباشر.",
+      "icon": "assets/images/app-auto-build.svg",
+      "apk": "https://github.com/albadyzaldyn111-a11y/apps-storage/raw/main/unidocs.apk",
+      "download_url": "https://github.com/albadyzaldyn111-a11y/apps-storage/raw/main/unidocs.apk",
+      "size": "69 MB",
+      "updated": "2026-08-16",
+      "featured": true,
+      "rating": 5.0,
+      "downloads": 0,
+      "status": "published"
+    },
+    {
       "id": "azooz-tv",
       "name": "Azooz TV",
       "slug": "azooz-tv",
