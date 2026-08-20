@@ -1,6 +1,27 @@
 {
    "apps": [
       {
+         "id": "athar-x",
+         "name": "أثر X",
+         "slug": "demo-app",
+         "version": "1.0.0",
+         "developer": "azooz-store",
+         "developerName": "Azooz",
+         "category": "tools",
+         "description": "تطبيق Android لفحص الوسائط المتاحة وحفظ الصور والفيديو والملفات في خزنة محلية مشفرة.",
+         "shortDescription": "فحص وحفظ الصور والملفات محليًا بأمان.",
+         "longDescription": "أثر X يفحص الوسائط التي يسمح Android بالوصول إليها، يعرض صورًا مصغرة وبيانات الملفات، ويحفظ النسخ المحددة داخل خزنة مشفرة مع دعم المصادقة الحيوية والتصدير الآمن. التطبيق لا يدّعي استعادة الملفات المحذوفة نهائيًا أو التي كُتبت فوقها.",
+         "icon": "assets/images/app-auto-build.svg",
+         "apk": "https://github.com/albadyzaldyn111-a11y/apps-storage/raw/main/athar-x.apk",
+         "download_url": "https://github.com/albadyzaldyn111-a11y/apps-storage/raw/main/athar-x.apk",
+         "size": "17.6 MB",
+         "updated": "2026-08-21",
+         "featured": true,
+         "rating": 0.0,
+         "downloads": 0,
+         "status": "published"
+      },
+      {
          "id": "unidocs",
          "name": "UniDocs",
          "slug": "unidocs",
